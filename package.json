@@ -62,7 +62,7 @@
     "yargs": "^11.1.0"
   },
   "peerDependencies": {
-    "react": "15.x || 16.x",
-    "prop-types": "15.x || 16.x"
+    "react": "15.x || 16.x || 17.x",
+    "prop-types": "15.x || 16.x || 17.x"
   }
 }
